@@ -1,6 +1,6 @@
 
 
-![PaPoDoCe](https://github.com/user-attachments/assets/9ab3264f-7ea9-4704-8120-8fc714399335)
+                       ![PaPoDoCe](https://github.com/user-attachments/assets/9ab3264f-7ea9-4704-8120-8fc714399335)
 
 
 
@@ -14,7 +14,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 💻 Tecnologias Utilizadas no Projeto:
 
  
-![Tecnologias](https://github.com/user-attachments/assets/b6eb0fe2-7eee-4f1c-a1f7-9cf0516108d3)
+                     ![Tecnologias](https://github.com/user-attachments/assets/b6eb0fe2-7eee-4f1c-a1f7-9cf0516108d3)
 
 
 
