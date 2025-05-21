@@ -12,18 +12,11 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 💻 Tecnologias Utilizadas no Projeto:
 
 
-https://gemini.google.com/app?hl=pt-BR  ![Gemini_Google](https://github.com/user-attachments/assets/a6658b10-12c3-4575-b875-d00d0af47f53)
+![Tecnologias](https://github.com/user-attachments/assets/f6ff49a7-3240-432a-9606-c3f7f3b8ef4b)
 
-
-https://chat.deepseek.com  ![Deepseek](https://github.com/user-attachments/assets/a5365196-9231-4180-99f0-9e548174de6c)
-
-
-
+https://gemini.google.com
+https://chat.deepseek.com 
 https://chatgpt.com
-
-https://www.notion.com  ![Notion](https://github.com/user-attachments/assets/6173f8ec-380a-4230-bd95-3cdcf662ab63)
-
-
-
-https://www.dio.me  ![DIO](https://github.com/user-attachments/assets/5108bff5-dffb-4ff9-9518-35b214136bc3)
+https://www.notion.com  
+https://www.dio.me  
 
