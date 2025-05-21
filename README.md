@@ -35,6 +35,8 @@ https://elevenlabs.io
 
 ✨ Como foi feito ?
 
+Seguindo este roteiro:  https://www.notion.so/PaPoDoCe-Podcast-AI-Studio-1fa2e005751d80f0af83e3eec4d88c1f
+
 
 * Roteiro gerado via chatgpt
   
