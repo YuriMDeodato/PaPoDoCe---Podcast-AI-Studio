@@ -33,6 +33,8 @@ https://elevenlabs.io
 
 ✨ Como foi feito ?
 
-Roteiro gerado via chatgpt,
-Audio gerado pela elevenLabs,
-Gemini Google para gerar capas e imagens.
+* Roteiro gerado via chatgpt
+  
+* Audio gerado pela elevenLabs
+  
+* Gemini Google para gerar capas e imagens
