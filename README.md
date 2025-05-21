@@ -13,12 +13,18 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 💻 Tecnologias Utilizadas no Projeto:
 
+ 
+![Tecnologias](https://github.com/user-attachments/assets/b6eb0fe2-7eee-4f1c-a1f7-9cf0516108d3)
 
-![Tecnologias](https://github.com/user-attachments/assets/f6ff49a7-3240-432a-9606-c3f7f3b8ef4b)
+
 
 https://gemini.google.com
+
 https://chat.deepseek.com 
+
 https://chatgpt.com
+
 https://www.notion.com  
+
 https://www.dio.me  
 
