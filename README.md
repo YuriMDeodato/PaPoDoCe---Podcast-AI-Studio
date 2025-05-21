@@ -26,3 +26,13 @@ https://www.notion.com
 
 https://www.dio.me  
 
+https://elevenlabs.io
+
+
+
+
+✨ Como foi feito ?
+
+Roteiro gerado via chatgpt,
+Audio gerado pela elevenLabs,
+Gemini Google para gerar capas e imagens.
